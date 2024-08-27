@@ -1,5 +1,5 @@
                                                               Hi, I’m Biprodeep Roy
-- 👀 I’m interested in Frontend Dev
+- 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning C,C++,HTML,PYTHON
 - 📫 How to reach me biprodeep2005@gmail.com
 - ⚡ Fun fact: I am funny
